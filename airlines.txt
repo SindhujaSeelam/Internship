@@ -1,0 +1,11 @@
+Indigo
+Air India
+SpiceJet
+Vistara
+Go First
+Akasa Air
+Air India Express
+AIX Connect
+
+
+<br><br><a href="displaydetails?pid=${pid}&fid=${fid}" style="text-decoration:none">Click to Pay</a>
