@@ -1,0 +1,5 @@
+package com.examples.S01JunitDemos.tests;
+
+public class MyFirstTestClass {
+
+}

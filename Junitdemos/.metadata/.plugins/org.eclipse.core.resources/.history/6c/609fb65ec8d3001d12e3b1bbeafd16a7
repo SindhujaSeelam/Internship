@@ -1,0 +1,14 @@
+package com.examples.S01JunitDemos.tests;
+
+import org.junit.*;
+import org.junit.Test;
+public class TestClass2 {
+
+		
+	@Test
+	public void test3() {
+		System.out.println("Test 3");
+	}
+	
+
+}

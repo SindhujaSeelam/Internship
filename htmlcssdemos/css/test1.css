@@ -1,0 +1,24 @@
+h3{
+    color: blueviolet;
+}
+
+h1,
+h2,
+h3{
+    font-size:larger ;
+    text-align:center;
+    text-transform: capitalize;
+}
+
+p{
+    background-color: chocolate;
+    
+}
+
+#para{
+    background-color: darkcyan;
+}
+
+.para{
+background-color: yellow;
+}
