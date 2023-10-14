@@ -5,7 +5,8 @@ ng new myapp --no-strict
 npm install --save bootstrap@4
 
 
-
+json-server --watch foodblogproject.json --port 3000
+ng serve
 
 
 create directory typescriptdemos
